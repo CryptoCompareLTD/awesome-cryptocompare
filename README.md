@@ -59,7 +59,7 @@
 - [Blockchain and cryptocurrency web api client libraries for .NET](https://github.com/Synuit/Synuit.Blockchain.Api)
 - [.Net and .Net Core async Crypto Compare client for newest Min-API](https://github.com/tosunthex/CryptoCompare-Api)
 - [CryptoCompareKit is a wrapper for the CryptoCompare API written in Swift](https://github.com/sger/CryptoCompareKit)
-
+- [CryptoCompare API for Elixir](https://github.com/konstantinzolotarev/crypto_compare)
 
 ### Example Projects
 
