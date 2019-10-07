@@ -38,7 +38,7 @@
 
 - [CryptoCompare Digital Asset Summit](https://summit.cryptocompare.com/)
 
-### Tutorials
+# Tutorials
 
 - [How to pull OHLCV for thousands of cryptocurrencies directly into Excel](http://help.cryptosheets.com/en/articles/1867392-how-to-pull-ohlcv-for-thousands-of-cryptocurrencies-directly-into-excel)
 - [Building a Cryptocurrency App with Vue.js and CryptoCompare API](https://medium.com/@rachidsakara/building-a-cryptocurrency-app-with-vue-js-and-cryptocompare-api-14231af6f099)
@@ -47,7 +47,7 @@
 - [A quick step by step guide to access Cryptocompare historic data (Python)](https://notebooks.ai/santiagobasulto/cryptocompare-api-examples-efed62c5)
 
 
-### API Wrappers
+# API Wrappers
 
 - [Python API Client for the CryptoCompare.com API](https://github.com/BoTreeConsultingTeam/crypto_compare)
 - [PHP wrapper class based on Guzzle to query the CryptoCompare API](https://github.com/loeken/cryptocompare-api-php-wrapper)
@@ -61,7 +61,7 @@
 - [CryptoCompareKit is a wrapper for the CryptoCompare API written in Swift](https://github.com/sger/CryptoCompareKit)
 - [CryptoCompare API for Elixir](https://github.com/konstantinzolotarev/crypto_compare)
 
-### Example Projects
+# Example Projects
 
 - [Trade streamer example & Current streamer example](https://github.com/cryptoqween/cryptoqween.github.io)
 
