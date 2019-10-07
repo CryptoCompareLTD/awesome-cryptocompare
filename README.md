@@ -18,13 +18,15 @@
 
 - [API Wrappers](#api-wrappers)
 
+- [Example Projects](#example-projects)
+
 # Resources
 
 
 ### Official Resources
 
 - [API Documentation](https://min-api.cryptocompare.com/documentation)
-
+- [Offcial Tutorials](https://github.com/CryptoCompareLTD/api-guides)
 
 ### Community
 
@@ -58,6 +60,10 @@
 - [.Net and .Net Core async Crypto Compare client for newest Min-API](https://github.com/tosunthex/CryptoCompare-Api)
 - [CryptoCompareKit is a wrapper for the CryptoCompare API written in Swift](https://github.com/sger/CryptoCompareKit)
 
+
+### Example Projects
+
+- [Trade streamer example & Current streamer example](https://github.com/cryptoqween/cryptoqween.github.io)
 
 <br/>
 <br/>
