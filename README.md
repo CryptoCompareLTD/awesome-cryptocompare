@@ -20,8 +20,7 @@
 
 ### Official Resources
 
-- [Official Guide](http://vuejs.org/guide/)
-- [API Documentation](http://vuejs.org/api/)
+- [API Documentation](https://min-api.cryptocompare.com/documentation)
 
 ### Tutorials
 
