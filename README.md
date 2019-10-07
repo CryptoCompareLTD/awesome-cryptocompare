@@ -11,7 +11,7 @@
 
 - [Resources](#resources)
   - [Official Resources](#official-resources)
-  - [External Resources](#external-resources)
+  - [Tutorials](#tutorials)
   - [Community](#community)
   - [Conferences](#conferences)
 
@@ -37,9 +37,9 @@
 - [Facebook](https://www.facebook.com/cryptocompare/)
 
 
+### Conferences
 
-
-
+- [CryptoCompare Digital Asset Summit](https://summit.cryptocompare.com/)
 
 
 <br/>
