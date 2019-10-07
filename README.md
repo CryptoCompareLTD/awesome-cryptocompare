@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-  <img width="400" src="./logo.svg" alt="Logo of Awesome CryptoCompare">
+  <img width="400" src="./cryptocompare-awesome.svg" alt="Logo of Awesome CryptoCompare">
   <br>
   <br>
 </p>
