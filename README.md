@@ -38,7 +38,7 @@
 ### Official Resources
 
 - [API Documentation](https://min-api.cryptocompare.com/documentation)
-- [Offcial Tutorials](https://github.com/CryptoCompareLTD/api-guides)
+- [Official Tutorials](https://github.com/CryptoCompareLTD/api-guides)
 
 ### Community
 
