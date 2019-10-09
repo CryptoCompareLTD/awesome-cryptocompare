@@ -5,7 +5,7 @@
   <br>
 </p>
 
-## Awesome Cryptocompare [![Awesome](https://github.com/CryptoCompareLTD/awesome-cryptocompare/blob/master/awesomecc.svg)](https://github.com/sindresorhus/awesome)
+## Awesome CryptoCompare [![Awesome](https://github.com/CryptoCompareLTD/awesome-cryptocompare/blob/master/awesomecc.svg)](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to CryptoCompare
 
