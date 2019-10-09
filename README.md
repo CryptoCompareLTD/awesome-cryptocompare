@@ -22,6 +22,7 @@
   - [PHP](#php)
   - [R](#r)
   - [Java](#java)
+  - [Ruby](#ruby)
   - [.NET](#net)
   - [Swift](#swift)
   - [Elixir](#elixir)
@@ -60,6 +61,8 @@
 # API Wrappers
   ### NodeJS
    - [CryptoCompare JavaScript API](https://github.com/ExodusMovement/cryptocompare)
+   - [JavaScript library for the CryptoCompare API](https://github.com/rhonsby/cryptocompare-api)
+   - [API for cryptocompare in JavaScript](https://github.com/wowbob396/CryptocompareJavascriptAPI)
   ### Golang
    - [Cryptocomparego is a Golang client library for accessing the Cryptocompare API](https://github.com/lucazulian/cryptocomparego)
    - [Golang CryptoCompare library](https://github.com/gorjan-mishevski/puzzle)
@@ -73,6 +76,8 @@
   ### Java
   - [Java CryptoCompare Unofficial API Client](https://github.com/jeffreytai/cryptocompare-java-api-wrapper)
   - [A Java implementation of the CryptoCompare API service](https://github.com/Josh-McFarlin/CryptoCompareAPI)
+  ### Ruby
+  - [A Ruby gem for finding cryptocurrency prices by using the CryptoCompare API](https://github.com/alexanderdavidpan/cryptocompare)
   ### Haskell
   - [A Haskell wrapper to the public CryptoCompare API](https://github.com/aviaviavi/cryptocompare)
   ### R
@@ -97,6 +102,8 @@
 - [HTML dropdown box and JavaScript plotting (plotly.js) for cryptocompare's historical JSON crypto currency price](https://github.com/cryptomanxxx/crypto_plot)
 - [CryptoCompare Dashboard built with React](https://github.com/rkrupinski/cryptocurrency-dashboard)
 - [Top 7 cryptocurrencies performance and rank over the last week](https://github.com/adityathebe/cryptoCompare)
+- [See up to date price for all cryptocurrency](https://github.com/claeri27/cryptocompare)
+- [Cryptocurrency price application (node.js / HTML5 / Electron / Axios HTTP / CryptoCompare API / Google API(s))](https://github.com/coledixon/electron_crypto_app)
 <br/>
 <br/>
 <br/>
