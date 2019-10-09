@@ -82,8 +82,6 @@
   - [A Haskell wrapper to the public CryptoCompare API](https://github.com/aviaviavi/cryptocompare)
   ### R
   - [Cryptor - An R Language wrapper around the public API provided by CryptoCompare](https://github.com/blairj09/cryptor)
-  ### Rust
-  - [A Rust API-Wrapper for the CryptoCompare API](https://docs.rs/cryptocompare/0.1.0/cryptocompare/)
   ### .NET & .NET Core
   - [An async-based CryptoCompare API client library for .NET and .NET Core](https://github.com/joancaron/cryptocompare-api)
   - [Blockchain and cryptocurrency web api client libraries for .NET](https://github.com/Synuit/Synuit.Blockchain.Api)
@@ -93,6 +91,8 @@
   - [Swifty cryptocompare API client](https://github.com/tapkain/CryptoCompareAPI)
   ### Elixir
   - [CryptoCompare API for Elixir](https://github.com/konstantinzolotarev/crypto_compare)
+  ### Rust
+  - [A Rust API-Wrapper for the CryptoCompare API](https://docs.rs/cryptocompare/0.1.0/cryptocompare/)
 
 # Example Projects
 
